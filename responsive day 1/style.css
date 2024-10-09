@@ -83,3 +83,113 @@ html,body{
 .sec3 div:hover{
     background-color: gray;
 }
+
+/* navbar end */
+
+/* main css start */
+
+
+.main{
+    width: 100%;
+    border: 1px solid red;
+    display: flex;
+}
+
+.sidebar-content{
+    height: 100%;
+    width: 20%;
+    background-color: teal;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.main-content{
+    height: 100%;
+    width: 80%;
+    background-color: chocolate;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.sidebar-card{
+    height: 50px;
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.sidebar-card:hover{
+    background-color: bisque;
+}
+
+.line{
+    margin-top: 10px;
+    margin-top: 20px;
+}
+
+/* sidebar css end */
+
+/* main-content css start */
+
+.content-card{
+    height: fit-content;
+    width: 380px;
+    border: 1px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.content-img{
+    height: 200px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.content-img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.content-body{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    align-items: top;
+    gap: 15px;
+    overflow: hidden;
+}
+
+.content-icon{
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+
+.content-text{
+    width: 80%;
+}
+
+
+
+
+
+/* main-content css end */
+
+
+
+
+
+/* main css end */

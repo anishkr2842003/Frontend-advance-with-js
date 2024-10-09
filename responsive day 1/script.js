@@ -1,44 +1,44 @@
 
-// let const - {es - 6}
+// // let const - {es - 6}
 
-// var - old js
+// // var - old js
 
-// var const let
+// // var const let
 
-// int a = 9;
-// string abc = "a"
+// // int a = 9;
+// // string abc = "a"
 
-// var a = 9
-// let b = 9
+// // var a = 9
+// // let b = 9
 
-// var name = 'a'
+// // var name = 'a'
 
-// const DBURI = "loremisksjdnv87jhb"
+// // const DBURI = "loremisksjdnv87jhb"
 
-// string 
+// // string 
 
-// var num = 5;
+// // var num = 5;
 
-// 'abc'
+// // 'abc'
 
-// "abc"
+// // "abc"
 
-// `abc ${num}` 
-
-
-var age = [15,18,27,28]
-
-var name = ['a','b','c','d']
-
-var abc = 
-[18,19,20,'a','c','d', function abc(){},{name:'anish'}, [5,6,['a',b]]]
-
-// backend 10 category - name - a
-// category - a - b - 
+// // `abc ${num}` 
 
 
-// obj -  
+// var age = [15,18,27,28]
 
-// foreach - array obj nested arra obj json.
+// var name = ['a','b','c','d']
 
-// fetch
+// var abc = 
+// [18,19,20,'a','c','d', function abc(){},{name:'anish'}, [5,6,['a',b]]]
+
+// // backend 10 category - name - a
+// // category - a - b - 
+
+
+// // obj -  
+
+// // foreach - array obj nested arra obj json.
+
+// // fetch
