@@ -1,0 +1,26 @@
+@media only screen and (min-width: 0px) and (max-width: 600px){
+
+    /* body{
+        background-color: red;
+    } */
+
+    .sec1 h3 span{
+        display: none;
+    }
+
+    .main-content{
+        height: 100vh;
+    }
+
+    .sidebar-content{
+        display: none;
+    }
+
+    .main-content{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+}
