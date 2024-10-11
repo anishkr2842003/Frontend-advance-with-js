@@ -10,6 +10,8 @@ body{
     justify-content: center;
     margin-top: 50px;
     gap: 20px;
+    flex-direction: column;
+    align-items: center;
 }
 .card1{
     height: auto;
@@ -62,4 +64,38 @@ body{
 
 .dribble-card:hover .content{
     opacity: 1;
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: teal;
+    position: relative;
+}
+
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    z-index: 6;
+}
+
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: chocolate;
+    position: absolute;
+    top: 10px;
+    z-index: 8;
+}
+
+
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: tomato;
+    position: absolute;
+    top: 5px;
+    z-index: 7;
 }
