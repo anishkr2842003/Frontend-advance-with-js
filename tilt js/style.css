@@ -1,0 +1,22 @@
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: gold;
+}
+
+.box2{
+    height: 300px;
+    width: 300px;
+    background-color: teal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform-style: preserve-3d;
+}
+
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: chocolate;
+    transform: translateZ(30px);
+}
